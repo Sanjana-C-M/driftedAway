@@ -1,0 +1,6 @@
+{
+  "name": "DriftedAway",
+  "description": "A Greek mythology-themed mental health journal and mood tracker with Athena companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
